@@ -2,3 +2,7 @@ test
 テストデータ
 
 This is a pen
+
+#6_関数を追加したい!!!
+def hiku(a,b)
+	print(a-b)
