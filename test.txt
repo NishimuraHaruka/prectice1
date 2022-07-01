@@ -6,3 +6,8 @@ This is a pen
 ＃6_関数を追加
 def tasu(a,b):
 	return a+b
+
+#6_関数を追加したい!!!
+def hiku(a,b)
+	print(a-b)
+
